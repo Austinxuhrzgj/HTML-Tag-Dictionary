@@ -1,0 +1,24 @@
+ a:
+ 
+ h1: Header tag, makes the text large and puts it on a separate line. Good for making titles or heading.
+ attributes: none
+ ex: <h1> Austin Xu</h1>
+ 
+ h6: Header tag, like h1 but the text is smaller. There are header tags from h1 to h6. h6 is the smallest. Good for subheadings
+attributes: nine
+ex: <h6> things I like </h6> 
+ 
+ img: to load image to your website
+ attributes: src
+ ex: <img src="lbjtt.jpg">
+ 
+ li: to identify which item you want in the list
+ 
+ 
+ 
+ ol: to group a list of things together with number
+ 
+ p:to make a paragraph and start a another line 
+ 
+ 
+ ul:to group a list of things in dots
